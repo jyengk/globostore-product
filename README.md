@@ -1,0 +1,1 @@
+# globostore-product
